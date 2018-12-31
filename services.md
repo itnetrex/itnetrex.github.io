@@ -1,6 +1,6 @@
 ---
 title: Our Service
-bigimg: /img/faq-bg1.jpg
+bigimg: /img/services.jpg
 ---
 
 # What we do
