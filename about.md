@@ -1,16 +1,13 @@
 ---
 title: About Us
-bigimg: /img/kuala-lumpur.jpg
+bigimg: /img/kuala-lumpur1.jpg
 ---
 
 # About Us
-**Malaysian Malayalees** was started as a [facebook page](https://www.facebook.com/MalaysianMalayalees) to share information among malayalees living in Malaysia. We try our best to assist on general queries about Malaysia like how to visit Malaysia, where to find a shop etc. 
+**ITNetRex Solutions** is a Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-But recently, we noticed a lot of queries related to fake jobs and fake visas and we thought to create of creating this page for your quick reference.
-
-Please note, this is not an official organization or we are not representing any kind of group or organization. 
-We are sharing whatever information we have and please verify the information from your side as well.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Thank you.
 
-Malaysian Malayalees
+ITNetRex Solutions

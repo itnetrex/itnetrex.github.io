@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://mymalayalees.github.io"
+url: "https://itnetrex.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Malaysian Malayalees
+title: ITNetRex Solutions
 
 # Short description of your site
-description: An Unofficial Helpdesk
+description: Gateway to Digitization
 
 # --- Navigation bar options --- #
 
@@ -25,21 +25,12 @@ description: An Unofficial Helpdesk
 navbar-links:
   Home: "./"
   About Us: "about"
-  FAQ: "faq-list"
-  Malaysia Jobs: "jobsearch"
-  Job Sites:
-    - JobStreet.com: "https://www.jobstreet.com.my"
-    - Jora MY: "https://my.jora.com"
-    - Monster Malaysia: "https://www.monster.com.my"
-    - Malaysia Jobs: "www.malaysiajobs.org"
-    - Careerjet: "https://www.careerjet.com.my"
-    - Hays: "https://www.hays.com.my"
-    - Naukri Malaysia: "https://www.naukri.com/jobs-in-malaysia"
-    - Search Google: "https://www.google.com/search?q=malaysia+jobs&oq=malaysia+jobs&aqs=chrome..69i57j69i60l2j0l3.1816j0j7&sourceid=chrome&ie=UTF-8"
-
+  Services: "services"
+  Contact: "contact"
+ 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon1.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -71,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Malaysian Malayalees
+  name: ITNetRex Solutions
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -107,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mymalayalees.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "itnetrex.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
