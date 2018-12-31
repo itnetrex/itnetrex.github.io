@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-bigimg: /img/jobsearch-1.jpg
+bigimg: /img/contact-us-banner.jpg
 ---
 
 ITNetRex Solutions
